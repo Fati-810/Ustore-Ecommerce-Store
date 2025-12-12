@@ -27,36 +27,42 @@ This project represents a **fully designed online store interface**, converted i
 
 ## Pages Included:
  Home
+ 
  Shop
+ 
  Product Detail Pages
+ 
  Blog (Categories & Posts UI)
+ 
  About
+ 
  Contact Us
+ 
  Cart (UI Demo)
 
 ## Technical Overview: (Behind the Scenes)
 
-Platform: WordPress (CMS-based architecture)
+**Platform:** WordPress (CMS-based architecture)
 
-eCommerce Engine: WooCommerce (products, cart, and shop UI)
+**eCommerce Engine:** WooCommerce (products, cart, and shop UI)
 
-Theme Framework: Hestia (customized layout & styling)
+**Theme Framework:** Hestia (customized layout & styling)
 
-Frontend Markup: HTML5 (semantic structure)
+**Frontend Markup:** HTML5 (semantic structure)
 
-Styling: CSS3 & Bootstrap (responsive grid system)
+**Styling:** CSS3 & Bootstrap (responsive grid system)
 
-Interactivity: JavaScript & jQuery
+**Interactivity:** JavaScript & jQuery
 
-Icons: Font Awesome
+**Icons:** Font Awesome
 
-Responsiveness: Mobile-first & cross-browser compatible
+**Responsiveness:** Mobile-first & cross-browser compatible
 
-Deployment: Static export hosted on GitHub Pages
+**Deployment:** Static export hosted on GitHub Pages
 
-Purpose: Portfolio showcase (UI/UX & frontend demonstration)
+**Purpose:** Portfolio showcase (UI/UX & frontend demonstration)
 
-🔗 **Preview:**  
+## Preview:
 https://fati-810.github.io/Ustore-Ecommerce-Store/
 
 ## Contact  
