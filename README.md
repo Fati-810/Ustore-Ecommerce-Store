@@ -65,14 +65,14 @@ This project represents a **fully designed online store interface**, converted i
 ## Preview:
 https://fati-810.github.io/Ustore-Ecommerce-Store/
 
-## Contact  
+## Contact:  
 If you'd like to see more of my work, connect with me through my portfolio:
 
 **Developer:** *Fatimah Ali*  
 **Website:** fatimahdigitaledge.com  
 **GitHub:** github.com/fati-810
 
-## 📜 License  
+## License:  
 This project is for educational and portfolio purposes.
 
 
