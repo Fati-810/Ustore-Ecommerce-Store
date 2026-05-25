@@ -1,9 +1,9 @@
 # 🛒 UStoreApp – WordPress eCommerce Website (Portfolio Project)
 
-⚠️ *This repository does NOT contain a full WordPress backend. It is a static version created only for demonstration purposes.*
-
 UStoreApp is a modern **WordPress-based eCommerce website** built as a **portfolio project** to demonstrate my skills in WordPress development, WooCommerce setup, UI customization, and responsive design.  
 This project represents a **fully designed online store interface**, converted into a **static demo** for showcasing on GitHub Pages.
+
+⚠️ This repository does NOT contain a full WordPress backend. It is a static version created only for demonstration purposes.
 
 ## Features:
 
